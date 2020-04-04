@@ -1,4 +1,4 @@
-## Python Competitive Programming Team-Notes
+## Python Competitive Programming Team Notes
 
 * This repository is a python library for PS(Problem-Solving) Competition.
 * When you need an implementation of a specific algorithm, please let me know.
