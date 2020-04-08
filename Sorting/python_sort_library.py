@@ -1,4 +1,3 @@
-
 n = 5
 
 ''' Python Sort Library (Basic) '''
