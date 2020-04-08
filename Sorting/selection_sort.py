@@ -9,5 +9,5 @@ for i in range(n):
             min_index = j
     data[i], data[min_index] = data[min_index], data[i] # Swap.
 
-for i in data:
-    print(i)
+for x in data:
+    print(x)
