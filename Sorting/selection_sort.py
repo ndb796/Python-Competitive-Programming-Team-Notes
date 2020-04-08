@@ -7,7 +7,7 @@ for i in range(n):
     for j in range(i + 1, n):
         if data[min_index] > data[j]:
             min_index = j
-            data[i], data[min_index] = data[min_index], data[i] # swap
+    data[i], data[min_index] = data[min_index], data[i] # swap
 
 for i in data:
     print(i)
