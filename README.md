@@ -15,9 +15,10 @@
 
 ### Searching
 
-* Binary Search
+* [Binary Search](/Searching/binary_search.py)
 * DFS
 * BFS
+* [DFS & BFS Examples](/Searching/dfs_and_bfs_example_1.py)
 
 ### Graph
 
