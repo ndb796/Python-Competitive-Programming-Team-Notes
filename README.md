@@ -7,11 +7,11 @@
 
 ### Sorting
 
-* Selection Sort
-* Insertion Sort
-* Quick Sort
-* Counting Sort
-* Python Sort Library
+* [Selection Sort](/Sorting/selection_sort.py)
+* [Insertion Sort](/Sorting/insertion_sort.py)
+* [Quick Sort](/Sorting/quick_sort.py)
+* [Counting Sort](/Sorting/counting_sort.py)
+* [Python Sort Library](/Sorting/python_sort_library.py)
 
 ### Searching
 
