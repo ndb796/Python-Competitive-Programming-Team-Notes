@@ -61,3 +61,7 @@
 
 * Prime
 * Sieve of Eratosthenes
+
+### Miscellaneous
+
+* Two Pointers
