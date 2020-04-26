@@ -49,6 +49,7 @@
 
 ### Geometry
 
+* Number of intersection points of two lines in one dimension
 * CCW
 * Convex Hull
 * Polygon
