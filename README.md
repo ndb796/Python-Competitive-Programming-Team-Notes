@@ -49,7 +49,7 @@
 
 ### Geometry
 
-* Number of intersection points of two lines in 1 dimension
+* [Number of intersection points of two lines in 1 dimension](/Geometry/number_of_intersection_points_of_two_lines_in_1_dimension.py)
 * CCW
 * Convex Hull
 * Polygon
