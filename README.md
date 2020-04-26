@@ -60,7 +60,8 @@
 
 ### Number Theory
 
-* GCD (Greatest Common Divisor), LCM (Least Common Multiple)
+* [GCD (Greatest Common Divisor)](/Number%20Theory/gcd.py)
+* [LCM (Least Common Multiple)](/Number%20Theory/lcm.py)
 * Prime
 * Sieve of Eratosthenes
 
