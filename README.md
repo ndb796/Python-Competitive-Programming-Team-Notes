@@ -69,3 +69,4 @@
 ### Miscellaneous
 
 * Two Pointers
+* [Prefix Sum (Interval Sum)](/Miscellaneous/prefix_sum.py)
