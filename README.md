@@ -46,6 +46,7 @@
 * 0-1 Knapsack Problem
 * LIS (Longest Increasing Subsequence)
 * LCS (Longest Common Subsequence)
+* Matrix Chain Multiplication
 
 ### Geometry
 
@@ -71,3 +72,7 @@
 * Two Pointers
 * [Prefix Sum (Interval Sum)](/Miscellaneous/prefix_sum.py)
 * [Matrix Rotation](/Miscellaneous/rotate_a_matrix_by_90_degree.py)
+
+### Signal Processing
+
+* FFT
