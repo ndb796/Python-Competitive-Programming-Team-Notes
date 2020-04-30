@@ -38,6 +38,7 @@
 
 ### String
 
+* Rabin-Karp
 * KMP
 
 ### Dynamic Programming
