@@ -70,4 +70,4 @@
 
 * Two Pointers
 * [Prefix Sum (Interval Sum)](/Miscellaneous/prefix_sum.py)
-* [2D Matrix Rotation](/Miscellaneous/2d_matrix_rotation.py)
+* [Matrix Rotation](/Miscellaneous/rotate_a_matrix_by_90_degree.py)
