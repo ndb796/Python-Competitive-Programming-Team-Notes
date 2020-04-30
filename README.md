@@ -65,7 +65,7 @@
 
 * [GCD (Greatest Common Divisor)](/Number%20Theory/gcd.py)
 * [LCM (Least Common Multiple)](/Number%20Theory/lcm.py)
-* Prime
+* [Check Prime Number](/Number%20Theory/is_prime_number.py)
 * Sieve of Eratosthenes
 
 ### Miscellaneous
