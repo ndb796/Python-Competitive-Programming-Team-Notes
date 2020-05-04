@@ -17,6 +17,7 @@
 ### Searching
 
 * [Binary Search](/Searching/binary_search.py)
+* [Python Binary Search Library]
 * DFS
 * BFS
 * [DFS & BFS Examples](/Searching/dfs_and_bfs_example_1.py)
@@ -40,6 +41,7 @@
 
 * Rabin-Karp
 * KMP
+* Trie
 
 ### Dynamic Programming
 
@@ -68,12 +70,13 @@
 * [Check Prime Number](/Number%20Theory/is_prime_number.py)
 * Sieve of Eratosthenes
 
+### Signal Processing
+
+* FFT
+
 ### Miscellaneous
 
 * Two Pointers
 * [Prefix Sum (Interval Sum)](/Miscellaneous/prefix_sum.py)
 * [Matrix Rotation](/Miscellaneous/rotate_a_matrix_by_90_degree.py)
-
-### Signal Processing
-
-* FFT
+* Handling Recursion Limit
