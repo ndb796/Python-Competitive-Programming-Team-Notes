@@ -17,9 +17,10 @@
 ### Searching
 
 * [Binary Search](/Searching/binary_search.py)
-* [Python Binary Search Library]
+* Python Binary Search Library
 * DFS
 * BFS
+    * [Find the number of connected components](/Searching/find_the_number_of_connected_components.py)
 * [DFS & BFS Examples 1](/Searching/dfs_and_bfs_example_1.py)
 
 ### Graph
