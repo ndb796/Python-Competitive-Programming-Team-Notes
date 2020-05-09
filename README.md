@@ -20,7 +20,7 @@
 * [Python Binary Search Library]
 * DFS
 * BFS
-* [DFS & BFS Examples](/Searching/dfs_and_bfs_example_1.py)
+* [DFS & BFS Examples 1](/Searching/dfs_and_bfs_example_1.py)
 
 ### Graph
 
@@ -77,6 +77,7 @@
 ### Miscellaneous
 
 * Two Pointers
+    * [Number of intervals whose sum is M](/Miscellaneous/number_of_intervals_whose_sum_is_M.py)
 * [Prefix Sum (Interval Sum)](/Miscellaneous/prefix_sum.py)
 * [Matrix Rotation](/Miscellaneous/rotate_a_matrix_by_90_degree.py)
 * Handling Recursion Limit
