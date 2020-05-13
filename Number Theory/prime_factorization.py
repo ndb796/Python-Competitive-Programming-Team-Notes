@@ -17,6 +17,6 @@ def prime_factorization(x):
     return result
 
 # Note: 1 is neither a prime number (소수) nor a composite number (합성수).
-print(prime_factorization(32))
-print(prime_factorization(45))
-print(prime_factorization(75))
+print(prime_factorization(32)) # [(2, 5)]
+print(prime_factorization(45)) # [(3, 2), (5, 1)]
+print(prime_factorization(75)) # [(3, 1), (5, 2)]
