@@ -69,6 +69,7 @@
 * [GCD (Greatest Common Divisor)](/Number%20Theory/gcd.py)
 * [LCM (Least Common Multiple)](/Number%20Theory/lcm.py)
 * [Check Prime Number](/Number%20Theory/is_prime_number.py)
+* [Prime Factorization](/Number%20Theory/prime_factorization.py)
 * Sieve of Eratosthenes
 
 ### Signal Processing
