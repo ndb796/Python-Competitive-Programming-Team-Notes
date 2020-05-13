@@ -80,6 +80,8 @@
 
 * Two Pointers
     * [Number of intervals whose sum is M](/Miscellaneous/number_of_intervals_whose_sum_is_M.py)
-* [Prefix Sum (Interval Sum)](/Miscellaneous/prefix_sum.py)
+* Interval Sum
+    * [Prefix Sum](/Miscellaneous/prefix_sum.py)
+    * [Fenwick Tree (Binary Indexed Tree)](/Miscellaneous/fenwick_tree.py)
 * [Matrix Rotation](/Miscellaneous/rotate_a_matrix_by_90_degree.py)
 * Handling Recursion Limit
