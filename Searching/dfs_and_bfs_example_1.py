@@ -11,14 +11,14 @@ def dfs(x):
 ''' Breadth First Search (BFS) '''
 def bfs(x):
     q = deque([x])
+    visited[x] = True
     while q:
         x = q.popleft()
-        if not(visited[x]):
-            visited[x] = True
-            print(x, end=' ')
-            for y in adj[x]:
-                if not visited[y]:
-                    q.append(y)
+        print(x, end=' ')
+        for y in adj[x]:
+            if not visited[y]:
+                q.append(y)
+                visited[y] = True
 
 n, m, start = map(int, input().split())
 adj = [[] for _ in range(n + 1)]
