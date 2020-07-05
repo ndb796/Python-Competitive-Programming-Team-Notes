@@ -34,7 +34,7 @@
 
 ### Data Structure
 
-* Union-Find (Disjoint-Set)
+* [Disjoint-Set (Union-Find)](/Data Structure/disjoint_set.py)
 * Tree
 * Line
 * Plane
