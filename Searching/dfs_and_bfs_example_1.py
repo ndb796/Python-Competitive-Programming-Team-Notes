@@ -36,11 +36,15 @@ print()
 visited = [False] * (n + 1)
 bfs(start)
 
-''' [Input Example 1]
+'''
+[Input Example 1]
 4 5 1
 1 2
 1 3
 1 4
 2 4
 3 4
+[Output Example 1]
+1 2 4 3 
+1 2 3 4
 '''
