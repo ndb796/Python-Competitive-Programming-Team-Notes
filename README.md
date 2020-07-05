@@ -17,7 +17,8 @@
 ### Searching
 
 * [Binary Search](/Searching/binary_search.py)
-* Python Binary Search Library
+* [Python Binary Search Library](/Searching/python_binary_search_library.py)
+    * Count number of occurrences in a sorted array
 * DFS
 * BFS
     * [Find the number of connected components](/Searching/find_the_number_of_connected_components.py)
