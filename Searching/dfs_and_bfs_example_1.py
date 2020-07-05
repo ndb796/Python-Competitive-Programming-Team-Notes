@@ -4,7 +4,7 @@ from collections import deque
 def dfs(x):
     print(x, end=' ')
     visited[x] = True
-    for y in adj[x]:
+    for y in graph[x]:
         if not(visited[y]):
             dfs(y)
 
@@ -15,19 +15,19 @@ def bfs(x):
     while q:
         x = q.popleft()
         print(x, end=' ')
-        for y in adj[x]:
+        for y in graph[x]:
             if not visited[y]:
                 q.append(y)
                 visited[y] = True
 
 n, m, start = map(int, input().split())
-adj = [[] for _ in range(n + 1)]
+graph = [[] for _ in range(n + 1)]
 for _ in range(m):
     x, y = map(int, input().split())
-    adj[x].append(y)
-    adj[y].append(x)
+    graph[x].append(y)
+    graph[y].append(x)
 
-for e in adj:
+for e in graph:
     e.sort()
 
 visited = [False] * (n + 1)
