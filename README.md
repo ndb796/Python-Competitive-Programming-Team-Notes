@@ -18,7 +18,7 @@
 
 * [Binary Search](/Searching/binary_search.py)
 * [Python Binary Search Library](/Searching/python_binary_search_library.py)
-    * Count number of occurrences in a sorted array
+    * [Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array](/Searching/count_the_number_of_frequencies_in_a_sorted_array.py)
 * DFS
 * BFS
     * [Find the number of connected components](/Searching/find_the_number_of_connected_components.py)
