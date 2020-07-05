@@ -26,7 +26,7 @@
 
 ### Graph
 
-* Dijkstra Shortest Path
+* [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
 * Minimum Spanning Tree (MST)
 * Topology Sort
 * Floyd–Warshall algorithm
