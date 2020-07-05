@@ -42,7 +42,7 @@ def bfs(x, y):
 result = 0
 for i in range(n):
     for j in range(m):
-        # Found the number of connected components consisting only of '0'.
+        # Find the number of connected components consisting only of '0'.
         if data[i][j] == '0' and not visited[i][j]:
             bfs(i, j)
             result += 1
